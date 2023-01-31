@@ -1,3 +1,5 @@
 *.csv
 *.mtx
 *.gz
+*.pickle
+*.h5ad
