@@ -39,5 +39,5 @@ PCA is a decorrelation operation, which removes correlation between variables. T
 ## B.
 if X is a multivariate gaussian random variable, then by doing PCA transformation, we are finding y=px, which is a linear operation. Since X is gaussian, and we're applying a linear operation on a gaussian, the result of that is still gaussian. Thus, if X is a gaussian that is uncorrelated, that means the values are also independent, and the operation on them is also independent. Thus, equation 1 holds. 
 
-# [Problem4 Link](https://colab.research.google.com/drive/17hkwk2W_ctyrw5judLEP1jN63x9CXdZF?usp=sharing)
+# [Problem4 Link](https://colab.research.google.com/drive/1HTgJauFel78wia8rzFKlUzyprOkEkRkT?usp=sharing)
 
